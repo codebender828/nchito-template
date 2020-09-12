@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Bee therapist",
+    "companyName": "Honey Well Farms",
+    "companySize": "15 - 50 people",
+    "description": "Talk to bees and imprve their honey output. You also need to give massages to the mees so that they are relaxed at all times for optimal honey production.",
+    "remote": false,
+    "location": "Lusaka",
+    "salary": 500000
+  },
+  {
+    "title": "Foot Baller",
+    "companyName": "Limbs and Inflation",
+    "companySize": "5 - 15 people",
+    "description": "We are a company of ballers who specialize in balling but with the FEET. We expect you to be someone who loves to ball and has exceptional feet. This job involves balling with our foot ballers and spreading our company values",
+    "remote": true,
+    "location": "Footlocker",
+    "salary": 300000
+  },
+  {
+    "title": "Koder",
+    "companyName": "Koding company of coders",
+    "companySize": "1 - 5 people",
+    "description": "We code for cats. Our cat apps (catlications) are used by cats around the world to be snarly at their owners.",
+    "remote": true,
+    "location": "Mt. Feline",
+    "salary": 400000
+  }
+]
